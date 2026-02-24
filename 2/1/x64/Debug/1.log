@@ -1,0 +1,5 @@
+﻿  1.cpp
+C:\Users\Yana\OneDrive\Desktop\СЯП\2\1.cpp(15,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  matrix_functions.cpp
+  Создание кода...
+  1.vcxproj -> C:\Users\Yana\OneDrive\Desktop\СЯП\2\x64\Debug\1.exe
