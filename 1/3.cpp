@@ -7,13 +7,13 @@ int main () {
 	void obmen1(int, int);
 	void obmen2(int*, int*);
 	void obmen3(int&, int&);
-	cout << "äî îáìåíà: a=" << a << ", b=" << b << endl;
+	cout << "Ð˜ÑÑ…Ð¾Ð´Ð½Ñ‹Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ñ: a=" << a << ", b=" << b << endl;
 	obmen1 (a, b);
-	cout << "ïîñëå îáìåíà 1: a=" << a << ", b=" << b << endl;
+	cout << "ÐŸÐ¾ÑÐ»Ðµ Ð¾Ð±Ð¼ÐµÐ½Ð° 1: a=" << a << ", b=" << b << endl;
 	obmen2 (&a, &b);
-	cout << "ïîñëå îáìåíà 2: a=" << a << ", b=" << b << endl;
+	cout << "ÐŸÐ¾ÑÐ»Ðµ Ð¾Ð±Ð¼ÐµÐ½Ð° 2: a=" << a << ", b=" << b << endl;
 	obmen3 (a, b);
-	cout << "ïîñëå îáìåíà 3: a=" << a << ", b=" << b << endl;
+	cout << "ÐŸÐ¾ÑÐ»Ðµ Ð¾Ð±Ð¼ÐµÐ½Ð° 3: a=" << a << ", b=" << b << endl;
 }
 
 void obmen1(int x, int y) {

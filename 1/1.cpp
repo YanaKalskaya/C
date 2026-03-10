@@ -5,7 +5,7 @@ int main () {
 	system("chcp 1251 > nul");
 	int i, k, n;
 	int power(int, int);
-	cout<<"Ââåäèòå îñíîâàíèå ñòåïåíè"<<endl;
+    cout<<"Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¾ÑÐ½Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÑ‚ÐµÐ¿ÐµÐ½Ð¸"<<endl;
 	cin >> n;
 	for (i=0; i<10; i++) {
 		k=power(n, i);
